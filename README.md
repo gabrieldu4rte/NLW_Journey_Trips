@@ -1,3 +1,3 @@
 <h1>Journey</h1>
-<p>Projeto feito durante o evento Next Level Week Journey, da Rocketseat. O projeto Journey tem como objetivo ajudar o usuário a organizar viagens à trabalho ou lazer. </p>
-<p>O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem o usuário pode planejar sua viagem adicionando atividades para realizar a cada dia.</p>
+<p>Project made during Rocketseat's Next Level Week Journey event. The Journey project aims to help users organize trips for work or leisure.</p>
+<p>The user can create a trip with a name, start and end date. Within the trip, the user can plan their trip by adding activities to carry out each day.</p>
